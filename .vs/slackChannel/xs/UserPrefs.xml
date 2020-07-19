@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{44A5A389-E4D4-4D7B-9DF6-806CC62BA23C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="slackChannel/slackChannel.cs">
+    <Files>
+      <File FileName="slackChannel/slackChannel.cs" Line="34" Column="16" />
+      <File FileName="slackChannel/host.json" />
+      <File FileName="slackChannel/local.settings.json" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.slackChannel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
